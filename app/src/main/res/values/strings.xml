@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Try1</string>
+    <string name="date">Date</string>
+    <string name="day">Day</string>
+    <string name="Temperature" />
+    <string name="Humid" />
+    <string name="temperature">TEMPERATURE</string>
+    <string name="temperature_f">Temperature (F)</string>
+    <string name="humidity">Humidity</string>
+    <string name="hum_sub">HUMIDITY</string>
+    <string name="textview">TextView</string>
+    <string name="currentTemp">TextView</string>
+    <string name="detail">Show Weather As Well, Current Stats</string>
+</resources>

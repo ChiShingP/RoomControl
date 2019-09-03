@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "65291539347",
+    "firebase_url": "https://try1-b73a4.firebaseio.com",
+    "project_id": "try1-b73a4",
+    "storage_bucket": "try1-b73a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65291539347:android:6cde171a8ee5aaa1",
+        "android_client_info": {
+          "package_name": "com.example.chishingpoon.try1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65291539347-4nlpbcva3ssqok0pfj1ffh15dq767b9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fSJCKV7AYxgZzOA3K0INLLhdBvRLKxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65291539347:android:6cc7b2c6d28c179c",
+        "android_client_info": {
+          "package_name": "com.example.chishingpoon.try1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65291539347-4nlpbcva3ssqok0pfj1ffh15dq767b9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fSJCKV7AYxgZzOA3K0INLLhdBvRLKxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
